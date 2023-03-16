@@ -1,1 +1,1 @@
-dizem q arquivfxFlexOffset=""
+izem q arquivfxFlexOffset=""
